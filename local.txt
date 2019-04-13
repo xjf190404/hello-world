@@ -1,4 +1,4 @@
 路径
 Administrator AppData Roaming GitHub Desktop
 在网上看了教程，不知道这样直接放进来对不对？
-刚刚看的教程是错的，显然放进去不对，先点击Current repository,然后鼠标右击我的世界仓库，然后添加txt文件。
+刚刚看的教程是错的，显然放进去不对，先点击Current repository,然后鼠标右击我的世界仓库，点击show in Explorer,然后在打开的文件夹中添加txt文件。
